@@ -6,6 +6,10 @@
 1. This script is used to push a local git repository to a remote repository.
 2. This script will continue to push the local repository to the remote repository until the push is successful.
 ```
+- Requirements
+```
+pip install GitPython
+```
 - Usage
 ```
 Right now, just copy the script to the local repository and run it.
